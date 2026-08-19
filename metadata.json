@@ -1,0 +1,6 @@
+{
+  "name": "Nexus News",
+  "description": "A high-performance, AdSense-optimized news blog with a bento grid layout and Firebase-ready admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
